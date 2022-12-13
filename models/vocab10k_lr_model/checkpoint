@@ -1,0 +1,2 @@
+model_checkpoint_path: "vocab10k_lr_model"
+all_model_checkpoint_paths: "vocab10k_lr_model"
